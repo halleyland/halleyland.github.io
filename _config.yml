@@ -9,8 +9,8 @@ tagline:          'blog'
 description:      'My personal blog.'
 url:              http://halleyland.github.io
 baseurl:          
-commentsystem:    google
-disqus:           example
+commentsystem:    
+disqus:           
 
 author:
   name:           Ian Brunelli
